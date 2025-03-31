@@ -1,8 +1,8 @@
 # Analyse et création de Dashboard des ventes de la société BEA
 
-![GitHub](https://img.shields.io/github/license/issam-kebiri/Analyse_ventes_BEA?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/Analyse_ventes_BEA?color=red&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/Analyse_ventes_BEA?color=yellow&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/issam-kebiri/PBI_Analyse_ventes_BEA?color=g&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/PBI_Analyse_ventes_BEA?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/PBI_Analyse_ventes_BEA?color=yellow&style=for-the-badge)
 
 ![GitHub dev_language](https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
 ![GitHub dev_language](https://img.shields.io/badge/Dax-blue?style=flat&logo=redwoodjs&logoColor=white)
